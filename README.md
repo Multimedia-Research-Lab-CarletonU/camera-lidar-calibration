@@ -1,6 +1,7 @@
 # camera-lidar-calibration
 
 ## How algorithm works?
+The below figure illustrates calibration steps.
 ![flow chart including results of each step](results/0.jpg)
 
 
